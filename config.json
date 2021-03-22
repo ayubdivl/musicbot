@@ -1,10 +1,9 @@
 {
-  "token": "[TOKEN]",
+  "token": "[ODE4NzUzMjA4ODEzODc5MzI2.YEcpWA.hi0eAjZNoLDa90lJwjOGFxIV_RQ]",
   "client_id": "[CLIENT ID]",
-  "prefix": "[PREFIX]",
+  "prefix": "[&!]",
   "owner_id": "[OWNER ID]",
   "status": "[STATUS]",
   "youtube_api_key": "[YOUTUBE API KEY]",
   "admins": ["Idhere", "Idhere"],
-  "server_port":"[PORT OF SERVER HERE]"
-}
+  "server_port":"[https://discord.gg/uUCVmKHUGj]
